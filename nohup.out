@@ -1,0 +1,16 @@
+['*']
+['*']
+Watching for file changes with StatReloader
+Performing system checks...
+
+/mnt/newvolume/allo.venv/lib/python3.12/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+System check identified no issues (0 silenced).
+August 26, 2024 - 02:42:39
+Django version 4.2.14, using settings 'allo.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+
+[26/Aug/2024 02:45:11] "GET /recycle/map/ HTTP/1.1" 200 4256
+[26/Aug/2024 02:45:12] "GET /recycle/map/ HTTP/1.1" 200 4256
+[26/Aug/2024 02:45:13] "GET /recycle/ HTTP/1.1" 200 4348
